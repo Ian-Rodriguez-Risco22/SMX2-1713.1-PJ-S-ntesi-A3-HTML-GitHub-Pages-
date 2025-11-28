@@ -1,1 +1,2 @@
-# SMX2-1713.1-PJ-S-ntesi-A3-HTML-GitHub-Pages-
+# SMX2-1713-A3-IntroHTML-GitHubPages
+Primer contacte amb HTML i publicació en un entorn public
